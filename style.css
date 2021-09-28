@@ -1,18 +1,23 @@
 body{
     background-color: aquamarine;
-    
+    background-image: url(./Images/character-5997189_960_720.png);
+    font-family: 'Lora', serif;
 }
 
 h1{
     text-align: center;
-    color:rgb(135, 50, 146);
+    color:rgb(0, 0, 0);
+
 }
 
 div{
     background-color: darkorange;
     height: 500px;
     width: 1000px;
-    margin: 100px;
+    margin: auto;
+    margin-top: 75;
+    
+    
 }
 
 .Bowling{
@@ -21,4 +26,23 @@ div{
 
 .Football{
     background-color: deeppink;
+}
+
+.tennis-image{
+    height: 250px;
+    margin-left: 315px;
+    
+
+}
+
+.bowling-image{
+    height: 250px;
+    margin-left: 315px;
+
+}
+
+.football-image{
+    height: 250px;
+    margin-left: 315px;
+
 }
