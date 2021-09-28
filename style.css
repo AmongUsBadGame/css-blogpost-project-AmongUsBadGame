@@ -15,7 +15,7 @@ div{
     height: 500px;
     width: 1000px;
     margin: auto;
-    margin-top: 75;
+    margin-top: 75px;
     
     
 }
@@ -37,12 +37,27 @@ div{
 
 .bowling-image{
     height: 250px;
-    margin-left: 315px;
+    margin-left: 350px;
 
 }
 
 .football-image{
     height: 250px;
-    margin-left: 315px;
+    margin-left: 325px;
 
+}
+
+.tennis-text{
+    font-size: 20px;
+    text-align: center;
+}
+
+.bowling-text{
+    font-size: 20px;
+    text-align: center;
+}
+
+.football-text{
+    font-size: 20px;
+    text-align: center;
 }
